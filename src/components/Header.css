@@ -1,0 +1,8 @@
+.hrStyle {
+    border: none;
+    border-top: 4px dashed #f00;
+    color:#fff;
+    background-color: #fff;
+    height:1px;
+    width:80%;
+  };
